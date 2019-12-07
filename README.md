@@ -1,1 +1,1 @@
-# node-mongo-exercices
+# node-mongo
